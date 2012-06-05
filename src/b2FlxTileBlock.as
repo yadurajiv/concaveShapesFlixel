@@ -25,6 +25,12 @@ freely, subject to the following restrictions:
  * Some parts of this project uses code written by others, where mentioned.
  */
 
+ /**
+  * Code is heavily influenced by Box2D, Implementation in Flixel Tutorial
+  * here - http://flashgamedojo.com/wiki/index.php?title=Box2D,_Implementation_%28Flixel%29
+  * also - https://github.com/phmongeau/Box2D-Tutorial
+  */
+ 
 package 
 {
 	import org.flixel.*;
