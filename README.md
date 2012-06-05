@@ -1,5 +1,5 @@
-Box2D-concaveShapes-Flixel
-==========================
+concaveShapes Flixel
+====================
 
 Drawing concave shapes with Box2D in Flixel/Flash
 
