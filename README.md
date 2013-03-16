@@ -3,7 +3,7 @@ concaveShapes Flixel
 
 Drawing concave shapes with Box2D in Flixel/Flash
 
-As seen here - http://rant.yadurajiv.com/yadurajiv/2011/01/694
+As seen here - https://dl.dropbox.com/u/1526334/yrdcExtra/concaveShapesFlixel/index.html
 
 The code was part of an experiment I was trying to do, to create convex and concave shapes and do collision with them effectively using Box2D with actionscript. Read the blog post to see code in action and to find out more.
 
